@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+
+{
+    "longUrl": "https://codecanyon.net/item/app-directory-starter-for-your-directory-app/14131345?irgwc=1&clickid=S9MQXtVJYxyIUZq0CzSaoUE-UkDx3zRIJQ8M3E0&iradid=275988&irpid=2490362&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_2490362&utm_medium=affiliate&utm_source=impact_radius"
+}
